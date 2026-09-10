@@ -1,0 +1,23 @@
+p {
+  font-family:'Times New Roman', Times, serif ;
+}
+body {
+    background-color: rgb(255, 241, 254);
+}
+h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(225, 188, 222);
+    background-color: darkslategray;
+}
+.kartu-biodata {
+    background-color: #ecf5df;
+    padding: 15px;
+}
+#judul-utama {
+    font-family: 'Times New Roman', Times, serif;
+    color: darkslategrey;
+    font-size: 32px;
+}
+.teks-info {
+    color: #6198cfa2;
+}
