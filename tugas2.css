@@ -1,0 +1,42 @@
+body {
+    background-color: darkslategrey;
+}
+.nama-warung {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: rgb(227, 99, 180);
+}
+h2, .menu {
+    width: 80%;
+    background-color: lemonchiffon;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 0 auto;
+}
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: darkslategray;
+}
+.daftar-menu li {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 10px;
+    border-bottom: 1px solid #cdecf4;
+}
+.daftar-menu .harga {
+    font-weight: bold;
+    color: #2e7d32;
+}
+.nama-item {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(25, 59, 40);
+    color: lightpink;
+    border-radius: 8px;
+    padding: 10px;
+}
+.daftar-menu li:hover {
+    background-color: #ffebee;
+    cursor: pointer;
+}
