@@ -1,0 +1,29 @@
+h1, h2, h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightblue;
+}
+nav a {
+    text-decoration: none;
+    color: burlywood;
+    font-weight: bold;
+}
+nav a:hover {
+    color: white;
+    background-color: #1F4E79;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+}
+h1 {
+    text-align: center;
+}
+button {
+  background-color: rgb(27, 146, 142);
+  color: white;
+  padding: 8px 16px;
+}
+ 
+button:hover {
+  background-color: rgba(24, 103, 111, 0.7);
+}
